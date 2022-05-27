@@ -1,0 +1,25 @@
+{
+  "short_name": "Home Electronics",
+  "name": "Home Electronics",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "helogo-2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "helogo-2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#4723D9",
+  "background_color": "#F7F6FB"
+}
